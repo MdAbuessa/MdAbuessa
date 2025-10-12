@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTluNW10aHd4dmwwcWpjZGtlbWt2YjJscm9uajc5OWwycjNzNDI4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
 
-Skills:  HTML || CSS || C || C++ || Java || Flutter || Dart
+Skills:  C || C++ || Java || Flutter || Dart || HTML || CSS 
 - 💻 I love programming
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m Jr Software engineer  
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about App Development 
 
