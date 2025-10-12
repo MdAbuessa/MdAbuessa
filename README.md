@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi I'm Md.Abu Essa</h2>
-<h3 align="center">A passionate Android and Oracle Apex developer from Bangladesh</h3>
+<h3 align="center">A passionate mobile application(flutter) developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTluNW10aHd4dmwwcWpjZGtlbWt2YjJscm9uajc5OWwycjNzNDI4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
 
