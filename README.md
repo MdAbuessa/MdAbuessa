@@ -7,7 +7,7 @@
 
 Skills:  Flutter || DartHTML || CSS || C || C++ || Java 
 - 💻 I love programming
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m mobile application developer (Flutter) 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about App Development 
 
