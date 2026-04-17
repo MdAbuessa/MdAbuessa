@@ -7,7 +7,7 @@
 
 Skills:  C || C++ || Java || Flutter || Dart || HTML || CSS 
 - 💻 I love programming
-- 🌱 I’m Jr Software engineer  
+- 🌱 I’m Software engineer  
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about App Development 
 
